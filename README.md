@@ -1,2 +1,2 @@
-# First-Project
-Git/GitHub DIO Challenge
+# Git/GitHub DIO Project Challenge
+## Repository created for the project challenge
